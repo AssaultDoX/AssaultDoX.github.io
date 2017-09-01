@@ -140,7 +140,7 @@ Letter = function( DOMElement, nextChar ) {
   this.next = nextChar;
   this.speed = Math.floor(Math.random() * (500 - 10) );
   this.total = 0;
-  this.duration = 800;
+  this.duration = 700;
   this.animating = true;
   this.isDead = false;
   
@@ -208,7 +208,7 @@ setTimeout( function() {
       nextWord = 0;
     
     letters.start( word[ nextWord ] );
-  }, 4000);
+  }, 3500);
   
-}, 3000);
+}, 2500);
 </script>
