@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/suicidal
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://assaultdox.github.io
+  * I am suicidal (https://keybase.io/suicidal) on keybase.
+  * I have a public key ASBddigV43lY3aN1KWs6mKV41xK324y8Pu3c7szb-ac3iAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205d762815e37958dda375296b3a98a578d712b7db8cbc3eeddceeccdbf9a737880a",
+      "host": "keybase.io",
+      "kid": "01205d762815e37958dda375296b3a98a578d712b7db8cbc3eeddceeccdbf9a737880a",
+      "uid": "38012c26a53b255b02e7162fe6860419",
+      "username": "suicidal"
+    },
+    "merkle_root": {
+      "ctime": 1504724509,
+      "hash": "08a99e1de5e129a53b7e8f372b51103350111d06140f90416359f3ce65ec7ffc7e3736f5f5a7e22e000bb3e002c71f0247b0b5f17631ea74406703ff491db076",
+      "hash_meta": "319f27429c1867758f813702c519c8e865f22a151ffca4a7fd03c98f45790f18",
+      "seqno": 1370903
+    },
+    "service": {
+      "hostname": "assaultdox.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.29"
+  },
+  "ctime": 1504724454,
+  "expire_in": 504576000,
+  "prev": "de44e9f377cd71b6ff49ef74ef778fd136f5310e82f7269a6da4230d584664ed",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXXYoFeN5WN2jdSlrOpileNcSt9uMvD7t3O7M2/mnN4gKp3BheWxvYWTFA0x7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNWQ3NjI4MTVlMzc5NThkZGEzNzUyOTZiM2E5OGE1NzhkNzEyYjdkYjhjYmMzZWVkZGNlZWNjZGJmOWE3Mzc4ODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNWQ3NjI4MTVlMzc5NThkZGEzNzUyOTZiM2E5OGE1NzhkNzEyYjdkYjhjYmMzZWVkZGNlZWNjZGJmOWE3Mzc4ODBhIiwidWlkIjoiMzgwMTJjMjZhNTNiMjU1YjAyZTcxNjJmZTY4NjA0MTkiLCJ1c2VybmFtZSI6InN1aWNpZGFsIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA0NzI0NTA5LCJoYXNoIjoiMDhhOTllMWRlNWUxMjlhNTNiN2U4ZjM3MmI1MTEwMzM1MDExMWQwNjE0MGY5MDQxNjM1OWYzY2U2NWVjN2ZmYzdlMzczNmY1ZjVhN2UyMmUwMDBiYjNlMDAyYzcxZjAyNDdiMGI1ZjE3NjMxZWE3NDQwNjcwM2ZmNDkxZGIwNzYiLCJoYXNoX21ldGEiOiIzMTlmMjc0MjljMTg2Nzc1OGY4MTM3MDJjNTE5YzhlODY1ZjIyYTE1MWZmY2E0YTdmZDAzYzk4ZjQ1NzkwZjE4Iiwic2Vxbm8iOjEzNzA5MDN9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYXNzYXVsdGRveC5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yOSJ9LCJjdGltZSI6MTUwNDcyNDQ1NCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJkZTQ0ZTlmMzc3Y2Q3MWI2ZmY0OWVmNzRlZjc3OGZkMTM2ZjUzMTBlODJmNzI2OWE2ZGE0MjMwZDU4NDY2NGVkIiwic2Vxbm8iOjYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RASPsKhHGapD59hECiBEJ2uMn89ESw5CLmf51MpXerYvbS1OIxHj0pbvD4+J+o9cmezzR7vKQSJ6SVw1FNctp/AqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBe4E4jHb7VjIPhadMzVmGvDERgd+KbYV/fCVjjQayd1o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/suicidal
+
+==================================================================
